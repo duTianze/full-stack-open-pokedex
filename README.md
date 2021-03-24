@@ -13,3 +13,7 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+## node降级
+npm install -g n   # Install n globally
+sudo n 14          # Install and use v14
